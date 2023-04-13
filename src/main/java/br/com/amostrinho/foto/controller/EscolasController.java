@@ -20,7 +20,7 @@ public class EscolasController {
     @GetMapping
     public ResponseEntity<ListaEscolaDto> lista(){
         return escolaService.lista();
-
+teset
     }
 
 }
