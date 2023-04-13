@@ -18,4 +18,8 @@ public class EscolaDto {
         public static List<EscolaDto> converter(List<Escola> escolas){
             return  escolas.stream().map(EscolaDto::new).collect(Collectors.toList());
         }
+
+    public static EscolaDto converterum(Escola escola) {
+            return  new EscolaDto(escola);
+    }
 }
