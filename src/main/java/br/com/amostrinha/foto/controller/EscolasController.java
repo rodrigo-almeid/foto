@@ -1,8 +1,7 @@
-package br.com.amostrinho.foto.controller;
+package br.com.amostrinha.foto.controller;
 
-import br.com.amostrinho.foto.dto.ListaEscolaDto;
-import br.com.amostrinho.foto.service.EscolaService;
-import org.springframework.beans.factory.annotation.Autowire;
+import br.com.amostrinha.foto.dto.ListaEscolaDto;
+import br.com.amostrinha.foto.service.EscolaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;

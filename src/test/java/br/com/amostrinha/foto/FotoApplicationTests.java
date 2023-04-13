@@ -1,4 +1,4 @@
-package br.com.amostrinho.foto;
+package br.com.amostrinha.foto;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

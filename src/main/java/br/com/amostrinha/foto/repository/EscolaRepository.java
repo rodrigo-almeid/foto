@@ -1,6 +1,6 @@
-package br.com.amostrinho.foto.repository;
+package br.com.amostrinha.foto.repository;
 
-import br.com.amostrinho.foto.model.Escola;
+import br.com.amostrinha.foto.model.Escola;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

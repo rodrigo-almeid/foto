@@ -1,6 +1,6 @@
-package br.com.amostrinho.foto.dto;
+package br.com.amostrinha.foto.dto;
 
-import br.com.amostrinho.foto.model.Escola;
+import br.com.amostrinha.foto.model.Escola;
 import lombok.Getter;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package br.com.amostrinho.foto.dto;
+package br.com.amostrinha.foto.dto;
 
 import lombok.Getter;
 import lombok.Setter;

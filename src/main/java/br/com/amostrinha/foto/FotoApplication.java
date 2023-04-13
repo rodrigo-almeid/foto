@@ -1,4 +1,4 @@
-package br.com.amostrinho.foto;
+package br.com.amostrinha.foto;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
